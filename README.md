@@ -2,7 +2,7 @@
 Projeto Programação Estruturada
 ### Manual de realização para uso do projeto, Gerenciamento para Concessionárias.
 
-O projeto deve trazer melhorias para a utilização de cadastros para automóveis, sendo elas, as especificações necessárias para o poder de compra. 
+O projeto deve trazer melhorias para a utilização de cadastros para automóveis, sendo elas, as especificações necessárias para o poder de compra. Tornando mais acessível o cadastro de carros que necessitam calcular seu lucro de forma mais precisa, e salvar seus cadastros e dados de maneira mais segura.
 Como nos mostra a Figura Abaixo.
 ### Cadastro do Automóvel
 
