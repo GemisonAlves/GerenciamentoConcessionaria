@@ -27,7 +27,7 @@ Como pode ser visualizado na Figura 4.
 
 ![](imagens/Manual-Opcões.png)
 
-Uma das especificações do projeto é o uso de *arquivos*, com a opção de salvar arquivos na sua maquina, e carregar arquivos que já foram salvos do programa. Isso traz uma boa prática de salvar arquivos do dia, ou da maneira que o usuário preferir. Os dados podem salvos ou carregados a partir de uma aba. 
+Uma das especificações do projeto é o uso de *arquivos*, com a opção de salvar(Ctrl+Shift+S) arquivos na sua maquina, e carregar(Ctrl+E) arquivos que já foram salvos do programa. Isso traz uma boa prática de salvar arquivos do dia, ou da maneira que o usuário preferir. Os dados podem salvos ou carregados a partir de uma aba. 
 como visualizamos na Figura 5.
 ### Figura 5. Tela para uso de Arquivos
 
