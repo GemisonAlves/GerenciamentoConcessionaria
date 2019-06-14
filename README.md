@@ -15,6 +15,7 @@ Como mostra na Figura 2.
 ![](imagens/Manual-Estatísticas.png)
 
 O programa traz para sua utilização o cadastro para diversos automóveis, eles podem ser inseridos na tabela do *manual* para que o usuário do programa possa observar os dados cadastrados, como também, o lucro que cada automóvel está gerando para concessionária, além da sua situação se está aprovada ou não para venda e se o carro já foi *vendido* ou se está no patio *à venda*. Caso o proprietário deseja fazer mudanças nos dados cadastrados, o programa oferece a função de alterar os valores, apenas clicando 2 vezes no valor desejado. 
+
 Na Figura 3 é ilustrado o presente cenário
 ### Figura 3. Tela para alteração de Cadastro
 
@@ -27,7 +28,7 @@ Como pode ser visualizado na Figura 4.
 ![](imagens/Manual-Opcões.png)
 
 Uma das especificações do projeto é o uso de *arquivos*, com a opção de salvar arquivos na sua maquina, e carregar arquivos que já foram salvos do programa. Isso traz uma boa prática de salvar arquivos do dia, ou da maneira que o usuário preferir. Os dados podem salvos ou carregados a partir de uma aba. 
-como nos mostra na Figura 5.
+como visualizamos na Figura 5.
 ### Figura 5. Tela para uso de Arquivos
 
 ![](imagens/Manual-OpcõesArquivos.png)
