@@ -21,7 +21,7 @@ Na Figura 3 é ilustrado o presente cenário
 
 ![](imagens/Manual-Editar.png)
 
-Como visto no momento anterior, o programa exibe dados para informar se o carro encontra-se *vendido* ou *à venda*, porém como melhoria para todo o projeto, foi inserido uma função para o usuário definir na hora do cadastro do automóvel se ele está sendo **vendido* ou se ele está *à venda*.  
+Como visto no momento anterior, o programa exibe dados para informar se o carro encontra-se *vendido* ou *à venda*, porém como melhoria para todo o projeto, foi inserido uma função para o usuário definir na hora do cadastro do automóvel se ele está sendo *vendido* ou se ele está *à venda*.  
 Como pode ser visualizado na Figura 4.
 ### Figura 4. Tela para alteração de Venda
 
